@@ -1,5 +1,5 @@
 
-# pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Website for the Parekh Lab at UT Dallas
 
 Visit **[pkpare.github.io/Parekh_lab_website](https://pkpare.github.io/Parekh_lab_website)** 🚀
 
