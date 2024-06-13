@@ -4,7 +4,6 @@ subtitle: School of Behavioral and Brain Sciences
 description: 
 header: images/ACC_histo_zoomed.png
 footer: images/ACC_histo_zoomed.png
-proofer: false
 
 # site social media and other links
 links:
@@ -12,7 +11,7 @@ links:
   orcid: 0000-0002-4158-2305
   google-scholar: q3QMX5kAAAAJ
   github: 
-  twitter: x.com/_droctothorpe_
+  twitter: _droctothorpe_
 
 ### jekyll settings
 
