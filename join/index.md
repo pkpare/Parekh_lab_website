@@ -15,10 +15,10 @@ We would love to grow our group and seek to build a multidisciplinary and divers
 # Current Opportunities
 
 ### Staff Positions
-We are looking to fill 1-2 open positions for the role of Research Technician. This is a great opportunity for hands-on, full-time research experience. Applicants should hold at minimum a Bachelor's degree in a relevant field such as Neuroscience, Psychology, Biology, Computational Biology, or Bioengineering. Please send an inquiry with CV or resume attached to Dr. Parekh at pkp2002@med.cornell.edu <br>
+We are looking to fill 1-2 open positions for the role of Research Technician. This is a great opportunity for hands-on, full-time research experience. Applicants should hold at minimum a Bachelor's degree in a relevant field such as Neuroscience, Psychology, Biology, Computational Biology, or Bioengineering. Please send an inquiry with CV or resume attached to Dr. Parekh at [pkp2002@med.cornell.edu](mailto:pkp2002@med.cornell.edu) <br>
 
 ### Postdoctoral scholars
-Funding for a postdoctoral associate is currently available to support one of our ongoing projects. Minimum qualifications include a doctoral degree in a relevant field and demonstrated scholarship. Please send an inquiry with CV to Dr. Parekh at pkp2002@med.cornell.edu <br> 
+Funding for a postdoctoral associate is currently available to support one of our ongoing projects. Minimum qualifications include a doctoral degree in a relevant field and demonstrated scholarship. Please send an inquiry with CV to Dr. Parekh at [pkp2002@med.cornell.edu](mailto:pkp2002@med.cornell.edu) <br> 
 
 ### Graduate students
 We accept graduate students who have already been admitted to one of the following programs: 
