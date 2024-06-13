@@ -1,38 +1,24 @@
-- title: Identifying stress-sensitive circuits
-  subtitle: 2-photon calcium imaging, Fiber photometry, Optogenetics 
-  group: featured
+ title: Identifying stress-sensitive circuits
+  subtitle: Methods: 2-photon calcium imaging, Fiber photometry, Optogenetics 
   image: images/web_2p.png
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: Stress is known to cause a variety of structural and functional changes across brain structures. We aim to delineate the role of a number of important circuits in supporting motivated and goal-directed behaviors and assess changes in these circuits as a result of stress exposure. We will use an array of in vivo techniques and longitudinal studies to accomplish this aim.
+    
 
-- title: Profiling behavioral effects of stress
-  subtitle: Novel behavioral paradigms, Unbiased classification 
-  group: featured
+ title: Profiling behavioral effects of stress
+  subtitle: Methods: Novel behavioral paradigms, Unbiased classification 
   image: images/EVtaskschematic.png
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  
+    
 
-- title: Probing mechanisms of resilience 
-  subtitle: Transcriptomics 
+ title: Probing mechanisms of resilience 
+  subtitle: Transcriptomics
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Exploring novel treatment candidates  
+
+ title: Exploring novel treatment candidates  
   subtitle: Transcriptomics, pharmacology
   image: images/photo.jpg
-  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
