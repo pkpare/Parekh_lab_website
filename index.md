@@ -25,7 +25,7 @@ We combine systems neuroscience approaches to uncover how the brain
 {% endcapture %}
 
 {%
-  include figure.html
+  include feature.html
   image="images/web_1.png"
   width="60%"
   link="research"
@@ -49,7 +49,7 @@ We have several exciting projects
 {% endcapture %}
 
 {%
-  include figure.html
+  include feature.html
   image="images/web_2p.png"
   width="60%"
   link="projects"
