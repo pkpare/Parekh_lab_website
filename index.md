@@ -4,80 +4,12 @@
 # Exploring the Neural Bases of Motivation 
 
 
+In the Parekh lab, we combine systems neuroscience approaches to uncover how the brain encodes information relevant for adaptive behaviors such as cost-benefit decision making and reward-seeking. We have several exciting projects underway to delineate the neural circuits underlying these processes in healthy and compromised states such as chronic stress exposure, a significant risk factor for disease. Furthermore, we aim to uncover the neural and genetic basis for individual differences in stress vulnerability to inform novel targets in the treatment of motivational deficits. 
 
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-We combine systems neuroscience approaches to uncover how the brain 
 
 {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
+  include figure.html
   image="images/web_1.png"
-  width="60%"
-  link="research"
-  title="Our Research"
-  text=text
+  width="70%"
 %}
 
-{% capture text %}
-
-We have several exciting projects 
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/web_2p.png"
-  width="60%"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Growing our Group
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
