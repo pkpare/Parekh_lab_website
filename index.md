@@ -26,7 +26,7 @@ We combine systems neuroscience approaches to uncover how the brain
 
 {%
   include feature.html
-  image="images/web_2p.png"
+  image="images/photo.jpg"
   link="research"
   title="Our Research"
   text=text
