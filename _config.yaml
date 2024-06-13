@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Parekh Lab at UT Dallas
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: pkpareDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: pkp2002@med.cornell.edu
+  orcid: 0000-0002-4158-2305
+  google-scholar: https://scholar.google.com/citations?user=q3QMX5kAAAAJ&hl=en
+  github: github.com/pkpare/
+  X: @_DrOctothorpe_
 
 ### jekyll settings
 
