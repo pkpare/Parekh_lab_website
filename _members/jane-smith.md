@@ -1,11 +1,9 @@
 ---
-name: Jane Smith
+name: Puja Parekh, Ph.D.
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+role: Principal Investigator
+affiliation: University of Texas Dallas
+
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
