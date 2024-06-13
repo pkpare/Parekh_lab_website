@@ -1,6 +1,6 @@
 ---
 name: Puja Parekh, Ph.D.
-image: images/Parekh_headshot.jpeg
+image: images/Parekh_headshot_cropped.png
 role: Principal Investigator
 affiliation: University of Texas Dallas
 
