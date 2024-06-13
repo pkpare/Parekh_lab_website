@@ -1,24 +1,42 @@
- title: Identifying stress-sensitive circuits
-  subtitle: Methods: 2-photon calcium imaging, Fiber photometry, Optogenetics 
+- title: Identifying stress-sensitive circuits
+  subtitle: Methods: 2-photon calcium imaging, Fiber photometry, Optogenetics
+  group: 
   image: images/web_2p.png
+  link: 
   description: Stress is known to cause a variety of structural and functional changes across brain structures. We aim to delineate the role of a number of important circuits in supporting motivated and goal-directed behaviors and assess changes in these circuits as a result of stress exposure. We will use an array of in vivo techniques and longitudinal studies to accomplish this aim.
-    
+  repo: 
+  tags:
+    - publication
 
- title: Profiling behavioral effects of stress
-  subtitle: Methods: Novel behavioral paradigms, Unbiased classification 
+- title: Profiling behavioral effects of stress
+  subtitle: Methods: Novel behavioral paradigms, Unbiased classification
+  group: 
   image: images/EVtaskschematic.png
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: 
+  description: 
+  repo: 
+  tags:
+    - publication
   
-    
-
- title: Probing mechanisms of resilience 
+- title: Probing mechanisms of resilience 
   subtitle: Transcriptomics
+  group: 
   image: images/photo.jpg
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link:
+  description: 
+  repo: 
+  tags:
+    - publication
 
-
- title: Exploring novel treatment candidates  
+- title: Exploring novel treatment candidates  
   subtitle: Transcriptomics, pharmacology
+  group:
   image: images/photo.jpg
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link:
+  description: 
+  repo: 
+  tags:
+    - publication
+
+    
 
