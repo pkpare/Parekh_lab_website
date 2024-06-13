@@ -25,7 +25,6 @@
   description:  words here
   repo: greenelab/lab-website-template
   tags:
-    - resource
     - publication
 
 - title: Developing novel treatment targets
@@ -35,7 +34,7 @@
   description:  words here
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - publication
 
 - title: Exploring disease-relevant models of amotivation 
   subtitle: Methods: Genetic, developmental, stress models 
@@ -45,6 +44,3 @@
   repo: greenelab/lab-website-template
   tags:
     - publication
-
-    
-
