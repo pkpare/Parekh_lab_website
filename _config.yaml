@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Parekh Lab at UT Dallas
-subtitle: 
+subtitle: School of Behavioral and Brain Sciences
 description: 
 header: images/ACC_histo_zoomed.png
 footer: images/ACC_histo_zoomed.png
@@ -10,9 +10,9 @@ proofer: false
 links:
   email: pkp2002@med.cornell.edu
   orcid: 0000-0002-4158-2305
-  google-scholar: https://scholar.google.com/citations?user=q3QMX5kAAAAJ&hl=en
-  github: github.com/pkpare/
-  X: @_DrOctothorpe_
+  google-scholar: 
+  github: 
+  X: 
 
 ### jekyll settings
 
