@@ -1,34 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.neuron.2023.10.020
+  title: A stress-sensitive frontostriatal circuit supporting effortful reward-seeking
+    behavior
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Robert N. Fetcho
+  - Puja K. Parekh
+  - Jolin Chou
+  - Margaux Kenwood
+  - "Laura Chalen\xE7on"
+  - David J. Estrin
+  - Megan Johnson
+  - Conor Liston
+  publisher: Neuron
+  date: '2023-11-13'
+  link: https://doi.org/gtzmbc
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  description: null
+  image: ../images/pub_1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
