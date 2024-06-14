@@ -9,5 +9,77 @@
   date: 2022-05-04
   image: 
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1111/ejn.15596
+  type: paper
+  date: 2022-01-22
+  image: 
+
+- id: doi:10.1038/s41380-020-00958-2
+  type: paper
+  date: 2020-11-04
+
+- id: doi: 10.1126/science.aat8078
+  type: paper
+  date: 2019-04-12
+
+- id: doi: 10.1523/JNEUROSCI.2233-18.2019
+  type: paper
+  date: 2019-04-08
+
+- id: doi: 10.1038/s41380-018-0061-1
+  type: paper
+  date: 2018-05-04
+
+- id: doi: 10.1111/acer.13626
+  type: paper
+  date: 2018-04-18
+
+- id: doi: 10.3389/fnmol.2017.00360
+  type: paper
+  date: 2017-11-03
+
+- id: doi: 10.1038/npp.2017.155
+  type: paper
+  date: 2017-08-31
+
+- id: doi: 10.1016/j.biopsych.2017.06.022
+  type: paper
+  date: 2017-06-17
+
+- id: doi: 10.3389/fpsyt.2016.00067
+  type: paper
+  date: 2016-04-21
+
+- id: doi: 10.3389/fpsyt.2015.00187
+  type: paper
+  date: 2016-01-12
+
+- id: 10.1016/j.alcohol.2014.09.034
+  type: paper
+  date: 2015-01-08
+
+- id: doi: 10.1038/mp.2014.167
+  type: paper
+  date: 2015-01-06
+
+- id: doi: 10.1101/lm.035741.114
+  type: paper
+  date: 2014-12-15
+
+- id: doi: 10.1016/j.pain.2014.09.033
+  type: paper
+  date: 2014-10-02
+
+- id: doi: 10.1038/ncomms5734
+  type: paper
+  date: 2014-09-02
+
+- id: doi: 10.1016/j.pain.2013.04.004
+  type: paper
+  date: 2013-04-06
+
+- id: doi: 10.1016/j.neuron.2019.10.036
+  type: paper
+  date: 2019-11-26
+
+
