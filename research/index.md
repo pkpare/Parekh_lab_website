@@ -2,26 +2,45 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-## Highlighted
+## Current Projects
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% capture text %}
+Identifying the neural circuits underlying adaptive behaviors
+Methods: Calcium imaging, Fiber photometry, Optogenetics 
+Rationale: 
 
-{% include section.html %}
 
-## All
+{:.center}
+{% endcapture %}
 
-{% include search-box.html %}
+{%
+  include feature.html
+  image="images/web_2p.png"
+  headline="Neural circuitry of motivated behavior"
+  text=text
+%}
 
-{% include search-info.html %}
+{% capture text %}
+Characterizing the effects of stress on motivated behaviors and circuit function
+Methods: Novel behavioral paradigms, Unbiased classification 
+Rationale: 
 
-{% include list.html data="citations" component="citation" style="rich" %}
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/EVtaskschematic.png"
+  headline="Stress-induced remodeling of the brain"
+  text=text
+%}
+
