@@ -2,10 +2,12 @@
   type: paper
   description: 
   date: 2023-11-13
-  image: ../images/pub_1.png
+  image: images/pub_1.png
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1146/annurev-neuro-110920-040422
+  type: paper
+  date: 2022-05-04
+  image: 
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
