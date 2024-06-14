@@ -1,18 +1,22 @@
 - id: doi:10.1016/j.neuron.2023.10.020
   type: paper 
   date: 2023-11-13
+  image: images/pub_1.png
 
 - id: doi:10.1146/annurev-neuro-110920-040422
   type: paper
   date: 2022-05-04
+  image: images/pub_2.png
 
 - id: doi:10.1111/ejn.15596
   type: paper
   date: 2022-01-22
+  image: images/pub_3.jpeg
 
 - id: doi:10.1038/s41380-020-00958-2
   type: paper
   date: 2020-11-04
+  image: images/pub_4.jpeg
 
 - id: doi:10.1126/science.aat8078
   type: paper
