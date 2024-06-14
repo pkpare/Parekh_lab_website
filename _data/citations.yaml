@@ -16,8 +16,6 @@
   date: '2023-11-13'
   link: https://doi.org/gtzmbc
   type: paper
-  description: null
-  image: images/pub_1.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1146/annurev-neuro-110920-040422
@@ -30,22 +28,373 @@
   date: '2022-05-04'
   link: https://doi.org/grb8tq
   type: paper
-  image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1111/ejn.15596
+  title: "Circadian transcription factor NPAS2 and the NAD<sup>+</sup>\u2010dependent\
+    \ deacetylase SIRT1 interact in the mouse nucleus accumbens and regulate reward"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - "Darius D. Becker\u2010Krail"
+  - Puja K. Parekh
+  - Kyle D. Ketchesin
+  - Shintaro Yamaguchi
+  - Jun Yoshino
+  - Mariah A. Hildebrand
+  - Brandan Dunham
+  - Madhavi K. Ganapathiraju
+  - Ryan W. Logan
+  - Colleen A. McClung
+  publisher: European Journal of Neuroscience
+  date: '2022-01-22'
+  link: https://doi.org/gtzmc2
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41380-020-00958-2
+  title: Valproate reverses mania-like behaviors in mice via preferential targeting
+    of HDAC2
+  authors:
+  - Ryan W. Logan
+  - Angela R. Ozburn
+  - Rachel N. Arey
+  - Kyle D. Ketchesin
+  - Alicia Winquist
+  - Andrew Crain
+  - Brian T. D. Tobe
+  - Darius Becker-Krail
+  - Matthew B. Jarpe
+  - Xiangning Xue
+  - Wei Zong
+  - Zhiguang Huo
+  - Puja K. Parekh
+  - Xiyu Zhu
+  - Ethan Fitzgerald
+  - Hui Zhang
+  - Jeffrey Oliver-Smith
+  - Lauren M. DePoy
+  - Mariah A. Hildebrand
+  - Evan Y. Snyder
+  - George C. Tseng
+  - Colleen A. McClung
+  publisher: Molecular Psychiatry
+  date: '2020-11-04'
+  link: https://doi.org/gtzmc3
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.aat8078
+  title: Sustained rescue of prefrontal circuit dysfunction by antidepressant-induced
+    spine formation
+  authors:
+  - R. N. Moda-Sava
+  - M. H. Murdock
+  - P. K. Parekh
+  - R. N. Fetcho
+  - B. S. Huang
+  - T. N. Huynh
+  - J. Witztum
+  - D. C. Shaver
+  - D. L. Rosenthal
+  - E. J. Alway
+  - K. Lopez
+  - Y. Meng
+  - L. Nellissen
+  - L. Grosenick
+  - T. A. Milner
+  - K. Deisseroth
+  - H. Bito
+  - H. Kasai
+  - C. Liston
+  publisher: Science
+  date: '2019-04-12'
+  link: https://doi.org/gnf2n8
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/JNEUROSCI.2233-18.2019
+  title: Cell-Type-Specific Regulation of Nucleus Accumbens Synaptic Plasticity and
+    Cocaine Reward Sensitivity by the Circadian Protein, NPAS2
+  authors:
+  - Puja K. Parekh
+  - Ryan W. Logan
+  - Kyle D. Ketchesin
+  - Darius Becker-Krail
+  - Micah A. Shelton
+  - Mariah A. Hildebrand
+  - Kelly Barko
+  - Yanhua H. Huang
+  - Colleen A. McClung
+  publisher: The Journal of Neuroscience
+  date: '2019-04-08'
+  link: https://doi.org/gtzmc4
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41380-018-0061-1
+  title: NAD+ cellular redox and SIRT1 regulate the diurnal rhythms of tyrosine hydroxylase
+    and conditioned cocaine reward
+  authors:
+  - Ryan W. Logan
+  - Puja K. Parekh
+  - Gabrielle N. Kaplan
+  - Darius D. Becker-Krail
+  - Wilbur P. Williams
+  - Shintaro Yamaguchi
+  - Jun Yoshino
+  - Micah A. Shelton
+  - Xiyu Zhu
+  - Hui Zhang
+  - Spencer Waplinger
+  - Ethan Fitzgerald
+  - Jeffrey Oliver-Smith
+  - Poornima Sundarvelu
+  - John F. Enwright
+  - Yanhua H. Huang
+  - Colleen A. McClung
+  publisher: Molecular Psychiatry
+  date: '2018-05-04'
+  link: https://doi.org/gsh92f
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/acer.13626
+  title: "Pharmacogenetic Manipulation of the Nucleus Accumbens Alters Binge\u2010\
+    Like Alcohol Drinking in Mice"
+  authors:
+  - Kush Purohit
+  - Puja K. Parekh
+  - Joseph Kern
+  - Ryan W. Logan
+  - Zheng Liu
+  - Yanhua Huang
+  - Colleen A. McClung
+  - John C. Crabbe
+  - Angela R. Ozburn
+  publisher: 'Alcoholism: Clinical and Experimental Research'
+  date: '2018-04-18'
+  link: https://doi.org/gtzmc5
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnmol.2017.00360
+  title: NPAS2 Regulation of Anxiety-Like Behavior and GABAA Receptors
+  authors:
+  - Angela R. Ozburn
+  - Joseph Kern
+  - Puja K. Parekh
+  - Ryan W. Logan
+  - Zheng Liu
+  - Edgardo Falcon
+  - Darius Becker-Krail
+  - Kush Purohit
+  - Nicole M. Edgar
+  - Yanhua Huang
+  - Colleen A. McClung
+  publisher: Frontiers in Molecular Neuroscience
+  date: '2017-11-03'
+  link: https://doi.org/gtzmc6
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/npp.2017.155
+  title: Antimanic Efficacy of a Novel Kv3 Potassium Channel Modulator
+  authors:
+  - Puja K Parekh
+  - Michelle M Sidor
+  - Andrea Gillman
+  - Darius Becker-Krail
+  - Letizia Bettelini
+  - Roberto Arban
+  - Giuseppe S Alvaro
+  - Erika Zambello
+  - Chiara Mutinelli
+  - Yanhua Huang
+  - Charles H Large
+  - Colleen A McClung
+  publisher: Neuropsychopharmacology
+  date: '2017-08-31'
+  link: https://doi.org/gbtdr9
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.biopsych.2017.06.022
+  title: "Altered GluA1 (Gria1) Function and Accumbal Synaptic Plasticity in the Clock\u0394\
+    19 Model of Bipolar Mania"
+  authors:
+  - Puja K. Parekh
+  - Darius Becker-Krail
+  - Poornima Sundaravelu
+  - Shinsuke Ishigaki
+  - Haruo Okado
+  - Gen Sobue
+  - Yanhua Huang
+  - Colleen A. McClung
+  publisher: Biological Psychiatry
+  date: '2017-06-17'
+  link: https://doi.org/gfmmdc
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2016.00067
+  title: Functional Implications of the CLOCK 3111T/C Single-Nucleotide Polymorphism
+  authors:
+  - Angela R. Ozburn
+  - Kush Purohit
+  - Puja K. Parekh
+  - Gabrielle N. Kaplan
+  - Edgardo Falcon
+  - Shibani Mukherjee
+  - Hannah M. Cates
+  - Colleen A. McClung
+  publisher: Frontiers in Psychiatry
+  date: '2016-04-21'
+  link: https://doi.org/gtzmc7
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2015.00187
+  title: Circadian Mechanisms Underlying Reward-Related Neurophysiology and Synaptic
+    Plasticity
+  authors:
+  - Puja K. Parekh
+  - Colleen A. McClung
+  publisher: Frontiers in Psychiatry
+  date: '2016-01-12'
+  link: https://doi.org/gccx82
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.alcohol.2014.09.034
+  title: 'Circadian clock genes: Effects on dopamine, reward and addiction'
+  authors:
+  - Puja K. Parekh
+  - Angela R. Ozburn
+  - Colleen A. McClung
+  publisher: Alcohol
+  date: '2015-01-08'
+  link: https://doi.org/f7dp5m
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/mp.2014.167
+  title: Daytime spikes in dopaminergic activity drive rapid mood-cycling in mice
+  authors:
+  - M M Sidor
+  - S M Spencer
+  - K Dzirasa
+  - P K Parekh
+  - K M Tye
+  - M R Warden
+  - R N Arey
+  - J F Enwright
+  - J P R Jacobsen
+  - S Kumar
+  - E M Remillard
+  - M G Caron
+  - K Deisseroth
+  - C A McClung
+  publisher: Molecular Psychiatry
+  date: '2015-01-06'
+  link: https://doi.org/ggrrq3
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/lm.035741.114
+  title: Experience-dependent regulation of presynaptic NMDARs enhances neurotransmitter
+    release at neocortical synapses
+  authors:
+  - Joanna Urban-Ciecko
+  - Jing A. Wen
+  - Puja K. Parekh
+  - Alison L. Barth
+  publisher: Learning &amp; Memory
+  date: '2014-12-15'
+  link: https://doi.org/gtzmc8
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pain.2014.09.033
+  title: TRPV4 is necessary for trigeminal irritant pain and functions as a cellular
+    formalin receptor
+  authors:
+  - Yong Chen
+  - Patrick Kanju
+  - Quan Fang
+  - Suk Hee Lee
+  - Puja K. Parekh
+  - Whasil Lee
+  - Carlene Moore
+  - Daniel Brenner
+  - Robert W. Gereau
+  - Fan Wang
+  - Wolfgang Liedtke
+  publisher: Pain
+  date: '2014-10-02'
+  link: https://doi.org/f6q43f
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms5734
+  title: TRPV channel-mediated calcium transients in nociceptor neurons are dispensable
+    for avoidance behaviour
+  authors:
+  - Amanda S. Lindy
+  - Puja K. Parekh
+  - Richard Zhu
+  - Patrick Kanju
+  - Sree V. Chintapalli
+  - Volodymyr Tsvilovskyy
+  - Randen L. Patterson
+  - Andriy Anishkin
+  - Damian B. van Rossum
+  - Wolfgang B. Liedtke
+  publisher: Nature Communications
+  date: '2014-09-02'
+  link: https://doi.org/f6jvxc
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pain.2013.04.004
+  title: 'Temporomandibular joint pain: A critical role for Trpv4 in the trigeminal
+    ganglion'
+  authors:
+  - Yong Chen
+  - Susan H. Williams
+  - Amy L. McNulty
+  - Ji Hee Hong
+  - Suk Hee Lee
+  - Nicole E. Rothfusz
+  - Puja K. Parekh
+  - Carlene Moore
+  - Robert W. Gereau
+  - Andrea B. Taylor
+  - Fan Wang
+  - Farshid Guilak
+  - Wolfgang Liedtke
+  publisher: Pain
+  date: '2013-04-06'
+  link: https://doi.org/f44w4b
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuron.2019.10.036
+  title: "Branched Photoswitchable Tethered Ligands Enable Ultra-efficient Optical\
+    \ Control and Detection of G Protein-Coupled Receptors In\_Vivo"
+  authors:
+  - Amanda Acosta-Ruiz
+  - Vanessa A. Gutzeit
+  - Mary Jane Skelly
+  - Samantha Meadows
+  - Joon Lee
+  - Puja Parekh
+  - Anna G. Orr
+  - Conor Liston
+  - Kristen E. Pleil
+  - Johannes Broichhagen
+  - Joshua Levitz
+  publisher: Neuron
+  date: '2019-11-26'
+  link: https://doi.org/gg7h7w
+  type: paper
   plugin: sources.py
   file: sources.yaml
