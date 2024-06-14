@@ -46,11 +46,11 @@ header a {
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xxxl);
 }
 
 .subtitle {
-  opacity: 0.65;
+  opacity: 0.75;
   font-weight: var(--regular);
 }
 
