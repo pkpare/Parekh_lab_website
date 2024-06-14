@@ -4,6 +4,7 @@ subtitle: School of Behavioral and Brain Sciences
 description: 
 header: images/ACC_crop.png
 footer: images/ACC_crop.png
+proofer: false 
 
 # site social media and other links
 links:
