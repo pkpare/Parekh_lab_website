@@ -1,34 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1126/science.aat8078
-  title: Sustained rescue of prefrontal circuit dysfunction by antidepressant-induced
-    spine formation
-  authors:
-  - R. N. Moda-Sava
-  - M. H. Murdock
-  - P. K. Parekh
-  - R. N. Fetcho
-  - B. S. Huang
-  - T. N. Huynh
-  - J. Witztum
-  - D. C. Shaver
-  - D. L. Rosenthal
-  - E. J. Alway
-  - K. Lopez
-  - Y. Meng
-  - L. Nellissen
-  - L. Grosenick
-  - T. A. Milner
-  - K. Deisseroth
-  - H. Bito
-  - H. Kasai
-  - C. Liston
-  publisher: Science
-  date: '2019-04-12'
-  link: https://doi.org/gnf2n8
-  orcid: 0000-0002-4158-2305
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
