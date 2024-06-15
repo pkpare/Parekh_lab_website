@@ -51,7 +51,7 @@ header a {
 
 .subtitle {
   opacity: 0.75;
-  font-weight: var(--regular);
+  font-weight: var(--large);
 }
 
 .nav-toggle {
