@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 3
-  tooltip: Peer-reviewed work
+  tooltip: Read more
 ---
 
 # {% include icon.html icon="fa-solid fa-file-signature" %}Publications
