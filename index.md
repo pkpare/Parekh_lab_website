@@ -9,7 +9,7 @@ In the Parekh lab, we combine systems neuroscience approaches to uncover how the
 
 {%
   include figure.html
-  image="images/web_1.png"
+  image="images/home_1.png"
   width="70%"
 %}
 
