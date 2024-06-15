@@ -21,8 +21,8 @@ h1 {
 h2 {
   font-size: 1.6rem;
   padding-bottom: 5px;
-  border-bottom: solid 1px var(--light-gray);
-  font-weight: var(--regular);
+  border-bottom: solid 1px var(--orange);
+  font-weight: var(--large);
 }
 
 h3 {
@@ -43,7 +43,7 @@ h6 {
 
 :where(h1, h2, h3, h4, h5, h6) > .icon {
   margin-right: 1em;
-  color: var(--light-gray);
+  color: var(--orange);
 }
 
 /*# sourceMappingURL=heading.css.map */
