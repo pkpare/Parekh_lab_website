@@ -2,7 +2,7 @@
 title: Join Us
 nav:
   order: 4
-  tooltip: 
+  tooltip: Become a member
 ---
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join
