@@ -133,6 +133,7 @@
   date: '2019-04-08'
   link: https://doi.org/gtzmc4
   type: paper
+  image: images/pub_6.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41380-018-0061-1
@@ -160,6 +161,7 @@
   date: '2018-05-04'
   link: https://doi.org/gsh92f
   type: paper
+  image: images/pub_7.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/acer.13626
@@ -179,6 +181,7 @@
   date: '2018-04-18'
   link: https://doi.org/gtzmc5
   type: paper
+  image: images/pub_8.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fnmol.2017.00360
@@ -199,6 +202,7 @@
   date: '2017-11-03'
   link: https://doi.org/gtzmc6
   type: paper
+  image: images/pub_9.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/npp.2017.155
@@ -220,6 +224,7 @@
   date: '2017-08-31'
   link: https://doi.org/gbtdr9
   type: paper
+  image: images/pub_10.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.biopsych.2017.06.022
@@ -238,6 +243,7 @@
   date: '2017-06-17'
   link: https://doi.org/gfmmdc
   type: paper
+  image: images/pub_11.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fpsyt.2016.00067
@@ -255,6 +261,7 @@
   date: '2016-04-21'
   link: https://doi.org/gtzmc7
   type: paper
+  image: images/pub_12.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fpsyt.2015.00187
@@ -267,6 +274,7 @@
   date: '2016-01-12'
   link: https://doi.org/gccx82
   type: paper
+  image: images/pub_13.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.alcohol.2014.09.034
@@ -279,6 +287,7 @@
   date: '2015-01-08'
   link: https://doi.org/f7dp5m
   type: paper
+  image: images/pub_14.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/mp.2014.167
@@ -302,6 +311,7 @@
   date: '2015-01-06'
   link: https://doi.org/ggrrq3
   type: paper
+  image: images/pub_15.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/lm.035741.114
@@ -316,6 +326,7 @@
   date: '2014-12-15'
   link: https://doi.org/gtzmc8
   type: paper
+  image: images/pub_16.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pain.2014.09.033
@@ -337,6 +348,7 @@
   date: '2014-10-02'
   link: https://doi.org/f6q43f
   type: paper
+  image: images/pub_17.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ncomms5734
@@ -357,6 +369,7 @@
   date: '2014-09-02'
   link: https://doi.org/f6jvxc
   type: paper
+  image: images/pub_18.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.pain.2013.04.004
@@ -380,6 +393,7 @@
   date: '2013-04-06'
   link: https://doi.org/f44w4b
   type: paper
+  image: images/pub_19.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuron.2019.10.036
@@ -401,5 +415,28 @@
   date: '2019-11-26'
   link: https://doi.org/gg7h7w
   type: paper
+  image: images/pub_20.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12311-013-0465-z
+  title: Effects of Perinatal Lipopolysaccharide (LPS) Exposure on the Developing
+    Rat Brain; Modeling the Effect of Maternal Infection on the Developing Human CNS
+  authors:
+  - M. Xu
+  - Z. L. Sulkowski
+  - P. Parekh
+  - A. Khan
+  - T Chen
+  - S. Midha
+  - T. Iwasaki
+  - N. Shimokawa
+  - N. Koibuchi
+  - A. M. Zavacki
+  - E. M. Sajdel-Sulkowska
+  publisher: The Cerebellum
+  date: '2013-08-12'
+  link: https://doi.org/gtxd4z
+  type: paper
+  image: images/photo.jpg
   plugin: sources.py
   file: sources.yaml
