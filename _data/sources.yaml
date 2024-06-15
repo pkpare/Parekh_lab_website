@@ -26,61 +26,80 @@
 - id: doi:10.1523/JNEUROSCI.2233-18.2019
   type: paper
   date: 2019-04-08
+  image: images/pub_6.jpeg
 
 - id: doi:10.1038/s41380-018-0061-1
   type: paper
   date: 2018-05-04
+  image: images/pub_7.jpeg
 
 - id: doi:10.1111/acer.13626
   type: paper
   date: 2018-04-18
+  image: images/pub_8.jpeg
 
 - id: doi:10.3389/fnmol.2017.00360
   type: paper
   date: 2017-11-03
+  image: images/pub_9.jpeg
 
 - id: doi:10.1038/npp.2017.155
   type: paper
   date: 2017-08-31
+  image: images/pub_10.jpeg
 
 - id: doi:10.1016/j.biopsych.2017.06.022
   type: paper
   date: 2017-06-17
+  image: images/pub_11.jpeg
 
 - id: doi:10.3389/fpsyt.2016.00067
   type: paper
   date: 2016-04-21
+  image: images/pub_12.jpeg
 
 - id: doi:10.3389/fpsyt.2015.00187
   type: paper
   date: 2016-01-12
+  image: images/pub_13.jpeg
 
 - id: doi:10.1016/j.alcohol.2014.09.034
   type: paper
   date: 2015-01-08
+  image: images/pub_14.jpeg
 
 - id: doi:10.1038/mp.2014.167
   type: paper
   date: 2015-01-06
+  image: images/pub_15.jpeg
 
 - id: doi:10.1101/lm.035741.114
   type: paper
   date: 2014-12-15
+  image: images/pub_16.jpeg
 
 - id: doi:10.1016/j.pain.2014.09.033
   type: paper
   date: 2014-10-02
+  image: images/pub_17.jpeg
 
 - id: doi:10.1038/ncomms5734
   type: paper
   date: 2014-09-02
+  image: images/pub_18.jpeg
 
 - id: doi:10.1016/j.pain.2013.04.004
   type: paper
   date: 2013-04-06
+  image: images/pub_19.jpeg
 
 - id: doi:10.1016/j.neuron.2019.10.036
   type: paper
   date: 2019-11-26
+  image: images/pub_20.jpeg
+
+- id: doi: 10.1007/s12311-013-0465-z
+  type: paper
+  date: 2013-08-12
 
 
