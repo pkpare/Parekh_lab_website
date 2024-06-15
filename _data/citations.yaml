@@ -4,8 +4,8 @@
   title: A stress-sensitive frontostriatal circuit supporting effortful reward-seeking
     behavior
   authors:
-  - Robert N. Fetcho
-  - Puja K. Parekh
+  - Robert N. Fetcho*
+  - Puja K. Parekh*
   - Jolin Chou
   - Margaux Kenwood
   - "Laura Chalen\xE7on"
@@ -22,8 +22,8 @@
 - id: doi:10.1146/annurev-neuro-110920-040422
   title: Synaptic Mechanisms Regulating Mood State Transitions in Depression
   authors:
-  - Puja K. Parekh
-  - Shane B. Johnson
+  - Puja K. Parekh*
+  - Shane B. Johnson*
   - Conor Liston
   publisher: Annual Review of Neuroscience
   date: '2022-05-04'
@@ -90,9 +90,9 @@
   title: Sustained rescue of prefrontal circuit dysfunction by antidepressant-induced
     spine formation
   authors:
-  - R. N. Moda-Sava
-  - M. H. Murdock
-  - P. K. Parekh
+  - R. N. Moda-Sava*
+  - M. H. Murdock*
+  - P. K. Parekh*
   - R. N. Fetcho
   - B. S. Huang
   - T. N. Huynh
@@ -120,8 +120,8 @@
   title: Cell-Type-Specific Regulation of Nucleus Accumbens Synaptic Plasticity and
     Cocaine Reward Sensitivity by the Circadian Protein, NPAS2
   authors:
-  - Puja K. Parekh
-  - Ryan W. Logan
+  - Puja K. Parekh*
+  - Ryan W. Logan*
   - Kyle D. Ketchesin
   - Darius Becker-Krail
   - Micah A. Shelton
@@ -208,8 +208,8 @@
 - id: doi:10.1038/npp.2017.155
   title: Antimanic Efficacy of a Novel Kv3 Potassium Channel Modulator
   authors:
-  - Puja K Parekh
-  - Michelle M Sidor
+  - Puja K Parekh*
+  - Michelle M Sidor*
   - Andrea Gillman
   - Darius Becker-Krail
   - Letizia Bettelini
