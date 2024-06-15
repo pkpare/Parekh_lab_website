@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please feel free to reach out with any questions. 
 
 {%
   include button.html
@@ -27,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps"
-  link=""
+  link="https://www.google.com/maps/place/School+of+Behavioral+and+Brain+Sciences/@32.9884781,-96.7502993,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1f6fae01fb9b:0x725fb18b86a74062!8m2!3d32.9884736!4d-96.747719!16s%2Fg%2F11fd_qts1z?entry=ttu"
 %}
 
 {% include section.html %}
@@ -36,8 +34,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/BBS.jpeg"
+  caption="The School of Brain and Behavioral Sciences"
 %}
 
 {% endcapture %}
@@ -52,7 +50,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 %}
 
 {% include section.html dark=true %}
 
@@ -74,4 +72,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 %}
