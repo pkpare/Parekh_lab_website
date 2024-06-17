@@ -39,7 +39,7 @@ Rationale:
 
 {%
   include feature.html
-  image="images/EVtaskschematic.png"
+  image="images/res_2.png"
   headline="Stress-induced remodeling of the brain"
   text=text
 %}
