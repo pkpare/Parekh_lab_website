@@ -21,7 +21,7 @@ Applicants should be collaborative, highly organized, motivated to learn quickly
 <ins>Qualifications</ins> 
 
 Required: 
--	A Bachelor’s degree with a major or minor (or relevant coursework) in Neuroscience, Neurobiology, Cognitive Science, Biological Psychology, Bioengineering, Computational Biology or a related field and some hands-on laboratory-based research experience in the respective area. 
+-	A Bachelor’s degree with a major or minor (or relevant coursework) in Neuroscience, Neurobiology, Cognitive Science, Biological Psychology, Bioengineering, Computational Biology or a related field and some exposure to research in the respective area. 
 -	Proficiency with notebook keeping, and the proper use of basic laboratory equipment such as pipettes, graduated cylinders and balances. 
 -	Time management skills and the ability to perform multiple tasks daily and plan ahead to accommodate long-term experiments involving live animals. The welfare of research animals must be prioritized. 
 -	An interest in the research questions being investigated and in contributing to experimental design, data collection and analysis and manuscript preparation. 
