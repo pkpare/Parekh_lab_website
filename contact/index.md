@@ -36,6 +36,10 @@ Please feel free to reach out with any questions.
   include figure.html
   image="images/BBS.jpeg"
   caption="The School of Brain and Behavioral Sciences"
+
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
