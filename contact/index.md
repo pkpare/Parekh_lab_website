@@ -40,7 +40,7 @@ Please feel free to reach out with any questions.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/UTDcampus.jpeg"
   caption="UTD Campus"
 %}
 
