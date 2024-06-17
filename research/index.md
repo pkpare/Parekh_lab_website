@@ -12,8 +12,8 @@ nav:
 ## Current Projects
 
 {% capture text %}
-Identifying the neural circuits underlying adaptive behaviors
-Methods: Calcium imaging, Fiber photometry, Optogenetics 
+Identifying the neural circuits underlying adaptive behaviors <br>
+Methods: Calcium imaging, Fiber photometry, Optogenetics <br>
 Rationale: 
 
 
@@ -22,14 +22,14 @@ Rationale:
 
 {%
   include feature.html
-  image="images/web_2p.png"
+  image="images/res_1.png"
   headline="Neural circuitry of motivated behavior"
   text=text
 %}
 
 {% capture text %}
-Characterizing the effects of stress on motivated behaviors and circuit function
-Methods: Novel behavioral paradigms, Unbiased classification 
+Characterizing the effects of stress on motivated behaviors and circuit function <br>
+Methods: Novel behavioral paradigms, Unbiased classification <br>
 Rationale: 
 
 <br>
