@@ -12,7 +12,7 @@ nav:
 ## Current Projects
 
 {% capture text %}
-Identifying the neural circuits underlying adaptive behaviors <br>
+Identifying the neural circuits that support adaptive behavior <br>
 Methods: Calcium imaging, Fiber photometry, Optogenetics <br>
 Rationale: 
 
@@ -41,6 +41,23 @@ Rationale:
   include feature.html
   image="images/res_2.png"
   headline="Stress-induced remodeling of the brain"
+  text=text
+%}
+
+{% capture text %}
+Uncovering the neurobiological substrates of resilience to stress in order to identify novel treatment targets <br>
+Methods: Transcriptomics, Pharmacology <br>
+Rationale: 
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/res_3.png"
+  headline="Mechanisms of resilience to stress"
   text=text
 %}
 
