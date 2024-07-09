@@ -12,8 +12,8 @@ Please feel free to reach out with any questions.
 {%
   include button.html
   type="email"
-  text="pkp2002@med.cornell.edu"
-  link="pkp2002@med.cornell.edu"
+  text="pkp240000@utdallas.edu"
+  link="pkp240000@utdallas.edu"
 %}
 {%
   include button.html
