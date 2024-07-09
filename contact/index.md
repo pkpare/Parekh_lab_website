@@ -35,7 +35,10 @@ Please feel free to reach out with any questions.
 {%
   include figure.html
   image="images/BBS.jpeg"
-  caption="The School of Brain and Behavioral Sciences"
+  caption="School of Behavioral and Brain Sciences"
+
+  include button.html
+  link="https://bbs.utdallas.edu"
 %}
 
 {%
