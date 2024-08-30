@@ -45,7 +45,9 @@ We accept graduate students who have already been admitted to one of the followi
 
 
 ### Undergraduate students
-If you are interested in working in the lab, please carefully review our website and previous research to determine if this will be a good fit for you. We are no longer accepting students for the Fall 2024 term. Please apply through the BBS Undergraduate Research portal for Spring 2025 opportunities.  
+If you are interested in working in the lab, please carefully review our website and previous research to determine if this will be a good fit for you. 
+
+<b>We are no longer accepting students for the Fall 2024 term. Please apply through the BBS Undergraduate Research portal for Spring 2025 opportunities.<b>  
 
 
 {% include section.html %}
