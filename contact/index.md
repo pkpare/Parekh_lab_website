@@ -12,8 +12,8 @@ Please feel free to reach out with any questions.
 {%
   include button.html
   type="email"
-  text="pkp240000@utdallas.edu"
-  link="pkp240000@utdallas.edu"
+  text="puja.parekh@utdallas.edu"
+  link="puja.parekh@utdallas.edu"
 %}
 {%
   include button.html
