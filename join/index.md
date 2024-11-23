@@ -15,8 +15,10 @@ We would love to grow our group and seek to build a multidisciplinary and divers
 
 ### Staff Positions
 
-We have filled all positions for Research Assistant.  
-<!-- We are looking to fill 1-2 open positions for the role of <ins>Research Technician I</ins>. This is a great opportunity for hands-on, full-time laboratory-based research experience. Please send an inquiry with CV or resume attached to Dr. Parekh at [pkp240000@utdallas.edu](mailto:pkp240000@utdallas.edu) <br>
+We have filled all positions for Research Assistant. 
+
+<!-- 
+We are looking to fill 1-2 open positions for the role of <ins>Research Technician I</ins>. This is a great opportunity for hands-on, full-time laboratory-based research experience. Please send an inquiry with CV or resume attached to Dr. Parekh at [pkp240000@utdallas.edu](mailto:pkp240000@utdallas.edu) <br>
 
 Applicants should be collaborative, highly organized, motivated to learn quickly and have excellent communication skills. Candidates interested in further pursuing graduate or medical education with a research focus are especially encouraged to apply and will receive tailored mentoring. <br> 
 
@@ -34,7 +36,8 @@ Preferred:
 -	Willingness to perform survival and terminal procedures as needed. 
 -	Basic experience with MATLAB and/or Python or willingness to learn how to implement existing scripts and pipelines to analyze behavioral and neural data. 
 -	Knowledge of basic statistics for data analysis and ability to think analytically. 
--	Exposure to techniques in mouse brain tissue processing for histological assessment or extraction of fresh brain tissue for molecular assays.-->
+-	Exposure to techniques in mouse brain tissue processing for histological assessment or extraction of fresh brain tissue for molecular assays.
+-->
 
 ### Postdoctoral scholars
 Funding for a postdoctoral associate is currently available to support one of our ongoing projects. Minimum qualifications include a doctoral degree in a relevant field and demonstrated scholarship. Please send an inquiry with CV to Dr. Parekh at [pkp240000@utdallas.edu](mailto:pkp240000@utdallas.edu) <br> 
