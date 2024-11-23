@@ -16,10 +16,4 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include list.html data="members" component="portrait" filters="role: Research Assistant II" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!Research Assistant II$)" %}
-
-{% include list.html data="members" component="portrait" filters="role: Research Assistant II" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!Research Assistant II$)" %}
-
 {% include section.html %}
