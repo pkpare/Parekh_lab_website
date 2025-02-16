@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.ynstr.2025.100712
+  title: 'Illuminating the impact of stress: In vivo approaches to track stress-related
+    neural adaptations'
+  authors:
+  - Puja K. Parekh
+  publisher: Neurobiology of Stress
+  date: '2025-02-13'
+  link: https://doi.org/g8479b
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.neuron.2023.10.020
   title: A stress-sensitive frontostriatal circuit supporting effortful reward-seeking
     behavior
