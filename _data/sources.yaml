@@ -1,6 +1,7 @@
 - id: doi:10.1016/j.ynstr.2025.100712
   type: paper 
   date: 2025-02-13
+  image: images/NBS_2025.jpg
 
 - id: doi:10.1016/j.neuron.2023.10.020
   type: paper 
