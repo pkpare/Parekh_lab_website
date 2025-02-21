@@ -9,6 +9,7 @@
   date: '2025-02-13'
   link: https://doi.org/g8479b
   type: paper
+  image: images/NBS_2025.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuron.2023.10.020
