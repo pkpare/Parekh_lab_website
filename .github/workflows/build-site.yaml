@@ -17,19 +17,19 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
-      # for debugging
-      - uses: crazy-max/ghaction-dump-context@v2
+      - name: Debug dump
+        uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
       - name: Install Ruby packages
-        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1.4"
+          ruby-version: "3.1"
           bundler-cache: true
 
       - name: Get Pages url
