@@ -50,7 +50,11 @@ We invite interested graduate students to complete a lab rotation. Students must
 
 ### Undergraduate students 
 
-<b>We are no longer accepting students for the Fall 2024 term. Please apply through the BBS Undergraduate Research portal for the opportunity to interview for future open positions.<b>  
+Please apply through the BBS Undergraduate Research portal for the opportunity to interview for future open positions.  
+
+### Policy on minors 
+
+We are <b>unable</b> to accept minors (under 18yo) to participate in research activities virtually or in person. Inquires made by perceived minors will not be addressed. 
 
 
 {% include section.html %}
