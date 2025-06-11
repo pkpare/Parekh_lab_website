@@ -54,7 +54,7 @@ Please apply through the BBS Undergraduate Research portal for the opportunity t
 
 ### Policy on minors 
 
-We are <b>unable</b> to accept minors (under 18yo) to participate in research activities virtually or in person. Inquires made by perceived minors will not be addressed. 
+We are <b>unable</b> to accept minors (under 18yo) to participate in research activities virtually or in person. Inquiries made by perceived minors will not be addressed. 
 
 
 {% include section.html %}
