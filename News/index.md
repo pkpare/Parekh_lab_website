@@ -44,7 +44,7 @@ nav:
 %}
 
 {% capture text %}
-<ins>Uncovering the neurobiological substrates of resilience to stress in order to identify novel treatment targets</ins> <br>
+August 2024 - The Parekh lab officially opens on the third floor of BSB!<br>
 
 
 
@@ -55,7 +55,7 @@ nav:
 
 {%
   include feature.html
-  image="images/person_placeholder.jpg"
+  image="images/labopening.HEIC"
   headline="Mechanisms of resilience to stress"
   text=text
 %}
