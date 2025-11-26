@@ -1,6 +1,6 @@
 ---
 name: Austin Csiszar, B.S., M.S.
-image: images/person_placeholder.jpg
+image: images/Austin_pic.png
 role: Research Assistant II
 affiliation: Research Assistant II
 
