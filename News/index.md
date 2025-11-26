@@ -55,7 +55,7 @@ August 2024 - The Parekh lab officially opens on the third floor of BSB!<br>
 
 {%
   include feature.html
-  image="images/labopening.HEIC"
+  image="images/labopening.png"
   headline="Mechanisms of resilience to stress"
   text=text
 %}
