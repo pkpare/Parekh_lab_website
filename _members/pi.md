@@ -1,6 +1,6 @@
 ---
 name: Puja Parekh, Ph.D.
-image: images/Parekh_headshot_cropped.png
+image: images/Parekh_newheadshot.png
 role: Principal Investigator
 affiliation: Principal Investigator
 
