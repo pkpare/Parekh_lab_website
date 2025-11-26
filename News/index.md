@@ -12,7 +12,7 @@ nav:
 
 
 {% capture text %}
-<ins>Identifying the neural circuits that support adaptive behavior</ins> <br>
+April 2025 - Dr. Parekh wins Travel Award Fellowship to attend and present at the Society of Biological Psychiatry (SOBP) annual meeting in Toronto, Canada<br>
 
 
 
@@ -21,13 +21,13 @@ nav:
 
 {%
   include feature.html
-  image="images/person_placeholder.jpg"
+  image="images/SOBP_2025_pic.jpg"
   headline="Neural circuitry of motivated behavior"
   text=text
 %}
 
 {% capture text %}
-<ins>Characterizing the effects of stress on motivated behaviors and circuit function</ins> <br>
+February 2025 - Review article published in the journal, Neurbiology of Stress<br>
 
 
 
@@ -38,7 +38,7 @@ nav:
 
 {%
   include feature.html
-  image="images/person_placeholder.jpg"
+  image="images/NBS_2025.jpg"
   headline="Stress-induced remodeling of the brain"
   text=text
 %}
