@@ -1,6 +1,6 @@
 ---
 name: Alexa Dinklang, B.S., M.S. 
-image: images/person_placeholder.jpg
+image: images/Alexa_pic.png
 role: Research Assistant II
 affiliation: Research Assistant II
 
