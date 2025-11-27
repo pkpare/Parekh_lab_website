@@ -79,7 +79,7 @@ June 2025 - Dr. Parekh attends and Chairs a panel at the International Behaviora
 %}
 
 {% capture text %}
-May 2025 - Pranavi graduates with her Bachelor's degree in Neuroscience and stays on as an ACN Masters student with the lab<br>
+May 2025 - Pranavi Maddipatla graduates with her Bachelor's degree in Neuroscience and stays on as an ACN Masters student with the lab<br>
 
 
 
@@ -97,7 +97,7 @@ May 2025 - Pranavi graduates with her Bachelor's degree in Neuroscience and stay
 
 
 {% capture text %}
-April 2025 - Dr. Parekh wins Travel Award Fellowship to attend and present at the Society of Biological Psychiatry (SOBP) annual meeting in Toronto, Canada<br>
+April 2025 - Dr. Parekh wins a Travel Fellowship Award to attend and present at the Society of Biological Psychiatry (SOBP) annual meeting in Toronto, Canada<br>
 
 
 
