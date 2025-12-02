@@ -112,7 +112,7 @@ April 2025 - Dr. Parekh wins a Travel Fellowship Award to attend and present at 
 %}
 
 {% capture text %}
-March 2025 - The lab receives funding through an R00 award from the National Institute of Mental Health (NIMH)<br>
+March 2025 - The lab receives funding through an R00 award from the National Institute of Mental Health (NIMH). <a href="https://research.utdallas.edu/blog/dr-puja-parekh-awarded-over-740000-from-nih">Read more here</a>.<br>
 
 
 
