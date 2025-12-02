@@ -28,7 +28,7 @@ November 2025 - Ausin Csiszar and Alexa Dinklang present posters at the ABRCMS a
 %}
 
 {% capture text %}
-October 2025 - Dr. Parekh is awarded a NARSAD Young Investigator grant from the Brain and Behavior Research Foundation (BBRF) to support lab projects<br>
+October 2025 - Dr. Parekh is awarded a NARSAD Young Investigator grant from the Brain and Behavior Research Foundation (BBRF) to support lab projects. <a href="https://news.utdallas.edu/faculty-staff/accolades-nov-2025/">Read more here</a>.<br>
 
 
 
