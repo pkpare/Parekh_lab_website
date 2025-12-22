@@ -11,6 +11,23 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+December 2025 - Annual holiday party and white elephant gift exchange with members from Eagle, Gu and Lakshminarasimhan labs.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/holiday_2025.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
 November 2025 - Ausin Csiszar and Alexa Dinklang present posters at the ABRCMS annual meeting in San Antonio, Texas<br>
 
 
