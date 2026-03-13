@@ -19,4 +19,7 @@ nav:
 
 ## Alumni 
 
+{% include list.html data="alumns" component="portrait" filters="role == 'pi'" %}
+
+{% include section.html %}
 
