@@ -20,4 +20,7 @@ nav:
 
 {% include list.html data="alumns" component="portrait" filters="role == 'pi'" %}
 
+Pranavi Maddipatla; ACN Master's student -> McGovern Medical School at UTHealth Houston 
+Austin Csiszar; Research Assistant II -> Behavioral Neuroscience PhD Program at CU Boulder 
 
+{% include section.html %}
