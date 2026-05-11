@@ -74,7 +74,7 @@ March 2026 - Celebrating Austin Csiszar's acceptance to the Behavioral Neuroscie
 
 {%
   include feature.html
-  image="images/Austinsendoff.png"
+  image="images/Austinsendoff2.png"
   headline=""
   text=text
 %}
