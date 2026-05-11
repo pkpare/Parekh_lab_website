@@ -39,7 +39,7 @@ May 2026 - Dr. Parekh and Alexa Dinklang attend the Society of Biological Psychi
 
 {%
   include feature.html
-  image="images/AlexaSOBP.png"
+  image="images/AlexaSOBPcrop.png"
   headline=""
   text=text
 %}
