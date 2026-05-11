@@ -11,6 +11,75 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+May 2026 - Parekh lab axe throwing outing to celebrate a productive semester.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/labouting2026.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+May 2026 - Dr. Parekh and Alexa Dinklang attend the Society of Biological Psychiatry (SOBP) annual meeting in NYC. Alexa presented a poster.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/AlexaSOBP.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+April 2026 - Aryan Bangad wins 2nd place (out of nearly 100 participants) in the URSA poster competition. His worked was judged by academic and industry professionals.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Aryan_URSA_pic.jpeg"
+  headline=""
+  text=text
+%}
+
+
+{% capture text %}
+March 2026 - Celebrating Austin Csiszar's acceptance to the Behavioral Neuroscience PhD Program at University of Colorado Boulder.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Austinsendoff.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
 December 2025 - Annual holiday party and white elephant gift exchange with members from Eagle, Gu and Lakshminarasimhan labs.<br>
 
 
