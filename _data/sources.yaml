@@ -1,3 +1,8 @@
+- id: doi:10.1016/j.cell.2026.04.030
+  type: paper
+  date: 2026-05-07
+  image: images/Cell_2026.png
+  
 - id: doi:10.1016/j.ynstr.2025.100712
   type: paper 
   date: 2025-02-13
