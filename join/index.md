@@ -50,7 +50,7 @@ We invite interested graduate students to complete a lab rotation. Students must
 
 ### Undergraduate students 
 
-Please apply through the BBS Undergraduate Research portal for the opportunity to interview for future open positions.  
+Thank you for your continued interest in the lab. <b>We are at capacity for Fall 2026</b>. Please apply through the BBS Undergraduate Research portal for the opportunity to interview for future open positions.  
 
 ### Policy on minors 
 
