@@ -11,6 +11,40 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+August 2026 - Dr. Parekh and Yara El Zoghby attended the UC Irvine Center for Neural Circuit Mapping conference. Yara received a travel award and presented a poster.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/CNCM_2026.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+July 2026 - Parekh lab undergraduates presented at the UTD SPUR symposium. Candace Ngan won a Dept of Materials Science Engineering SPUR award.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/SPUR_2026.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
 May 2026 - Parekh lab axe throwing outing to celebrate a productive semester.<br>
 
 
