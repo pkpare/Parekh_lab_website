@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.11.737837
+  title: Stress-induced motivational impairment is marked by diminished frontocortical
+    cellular communication and neuropeptide signaling
+  authors:
+  - Puja Parekh
+  - Devin Rocks
+  - Margaux Kenwood
+  - Jacob Roshgadol
+  - Hermany Munguba
+  - Conor Liston
+  publisher: openRxiv
+  date: '2026-07-11'
+  link: https://doi.org/hcgkb2
+  type: paper
+  image: images/biorxiv_2026.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2026.04.030
   title: Fronto-insular circuit mechanisms of accelerated intermittent theta burst
     stimulation
