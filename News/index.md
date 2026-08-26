@@ -79,7 +79,7 @@ May 2026 - Dr. Parekh and Alexa Dinklang attend the Society of Biological Psychi
 %}
 
 {% capture text %}
-April 2026 - Aryan Bangad wins 2nd place (out of nearly 100 participants) in the URSA poster competition. His worked was judged by academic and industry professionals.<br>
+April 2026 - Aryan Bangad wins 2nd place (out of nearly 100 participants) in the URSA poster competition. His work was judged by academic and industry professionals.<br>
 
 
 
