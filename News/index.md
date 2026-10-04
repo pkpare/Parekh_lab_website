@@ -11,8 +11,24 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-August 2026 - Dr. Parekh and Yara El Zoghby attended the UC Irvine Center for Neural Circuit Mapping conference. Yara received a travel award and presented a poster.<br>
+September 2026 - Jay Meda presents a poster in the Comet Computing Conference highlighting work on 2-photon calcium imaging data pre-processing with UTD high-performance computing resources.<br>
 
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Jay_CCC_Sept2026.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+August 2026 - Dr. Parekh and Yara El Zoghby attended the UC Irvine Center for Neural Circuit Mapping conference. Yara received a travel award and presented a poster.<br>
 
 
 <br>
