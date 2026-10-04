@@ -22,7 +22,7 @@ September 2026 - Jay Meda presents a poster in the Comet Computing Conference hi
 
 {%
   include feature.html
-  image="images/Jay_CCC_Sept2026.png"
+  image="images/Jay_CCC_Sept2026_2.png"
   headline=""
   text=text
 %}
