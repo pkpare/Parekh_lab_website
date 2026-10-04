@@ -28,7 +28,7 @@ September 2026 - Jay Meda presents a poster in the Comet Computing Conference hi
 %}
 
 {% capture text %}
-August 2026 - Dr. Parekh and Yara El Zoghby attended the UC Irvine Center for Neural Circuit Mapping conference. Yara received a travel award and presented a poster.<br>
+August 2026 - Dr. Parekh and Yara El Zoghby attend the UC Irvine Center for Neural Circuit Mapping conference. Yara received a travel award and presented a poster.<br>
 
 
 <br>
@@ -44,7 +44,7 @@ August 2026 - Dr. Parekh and Yara El Zoghby attended the UC Irvine Center for Ne
 %}
 
 {% capture text %}
-July 2026 - Parekh lab undergraduates presented at the UTD SPUR symposium. Candace Ngan won a Dept of Materials Science Engineering SPUR award.<br>
+July 2026 - Parekh lab undergraduates present at the UTD SPUR symposium. Candace Ngan won a Dept of Materials Science Engineering SPUR award.<br>
 
 
 
