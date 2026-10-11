@@ -11,6 +11,25 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+October 2026 - Undergraduate student, Vari Kistupati, is selected for the prestigious UT Dallas/UT Southwestern <a href="https://greenfellowship.utdallas.edu/">Green Fellows Program</a>. She will conduct full-time research at UTSW during the Spring 2027 semester.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/UTSW.png"
+  headline=""
+  text=text
+%}
+
+
+
+{% capture text %}
 September 2026 - Jay Meda presents a poster in the Comet Computing Conference highlighting work on 2-photon calcium imaging data pre-processing with UTD high-performance computing resources.<br>
 
 
