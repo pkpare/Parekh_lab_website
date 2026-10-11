@@ -11,7 +11,7 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-October 2026 - Undergraduate student, Vari Kistupati, is selected for the prestigious UT Dallas/UT Southwestern <a href="https://greenfellowship.utdallas.edu/">Green Fellows Program</a>. She will conduct full-time research at UTSW during the Spring 2027 semester.<br>
+October 2026 - Undergraduate student, Bhavya (Vari) Kistupati, is selected for the prestigious UT Dallas/UT Southwestern <a href="https://greenfellowship.utdallas.edu/">Green Fellows Program</a>. She will conduct full-time research at UTSW during the Spring 2027 semester.<br>
 
 
 
