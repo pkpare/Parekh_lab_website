@@ -11,6 +11,57 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+November 2026 - Vari Kistupati presents a poster at the ABRCMS annual meeting in Seattle and wins a presentation award. Her travel was supported by the Honor's College.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/IMG_0931.JPG"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+November 2026 - Aryan Bangad gives an oral presentation at the ABRCMS annual meeting in Seattle. His travel was supported by the Honor's College.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/IMG_8486.JPG"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
+November 2026 - Yara El Zoghby wins a Society for Neuroscience Trainee Professional Development Award (TPDA) and presents her work in Nanosymposium and poster sessions in Washington, DC.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/e27aa411-4e9d-4888-b4ea-f60b67c7c691.JPG"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
 October 2026 - Undergraduate student, Bhavya (Vari) Kistupati, is selected for the prestigious UT Dallas/UT Southwestern <a href="https://greenfellowship.utdallas.edu/">Green Fellows Program</a>. She will conduct full-time research at UTSW during the Spring 2027 semester.<br>
 
 
