@@ -56,7 +56,7 @@ November 2026 - Yara El Zoghby wins a Society for Neuroscience Trainee Professio
 
 {%
   include feature.html
-  image="images/e27aa411-4e9d-4888-b4ea-f60b67c7c691.JPG"
+  image="images/Yarasfnnano.png"
   headline=""
   text=text
 %}
