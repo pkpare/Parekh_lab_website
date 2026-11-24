@@ -22,7 +22,7 @@ November 2026 - Vari Kistupati presents a poster at the ABRCMS annual meeting in
 
 {%
   include feature.html
-  image="images/IMG_0931.JPG"
+  image="images/IMG_0931.png"
   headline=""
   text=text
 %}
