@@ -11,6 +11,23 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+November 2026 - The lab publishes a collaborative review paper in the journal, Neuroscience and Biobehavioral Reviews.<br>
+
+
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/NBR_2026.png"
+  headline=""
+  text=text
+%}
+
+{% capture text %}
 November 2026 - Vari Kistupati presents a poster at the ABRCMS annual meeting in Seattle and wins a presentation award. Her travel was supported by the Honor's College.<br>
 
 
