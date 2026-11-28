@@ -19,7 +19,7 @@
   date: '2026-11-24'
   link: https://doi.org/hct5s5
   type: paper
-  image: images/biorxiv_2026.png
+  image: images/NBR_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.64898/2026.07.11.737837
